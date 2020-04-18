@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+	<meta> charset="utf-8">
+	<title>div & span elements in HTML</title>
+</head>
+<body>
+	<div> DIV 1: Welcome back this about division element in HTML</div>
+	<div> DIV 2: This is also about division element must be written inline only </div>
+	<span> SPAN 1: this about span element in HTML which is to be written inline only </span>
+	<div>
+		DIV 3: this is written after span 1
+		<span> SPAN 2: this is inside division 3 </span>
+		this is continued content of DIV 3.
+	</div>
+</body>
+</html>
