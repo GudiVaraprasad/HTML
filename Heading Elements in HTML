@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+	<meta> charset="utf-8">
+	<title>Heading Elements in HTML</title>
+</head>
+<body>
+	<h1> THIS IS MAIN HEADING </h1>
+	<h2> this is subheading 1 under main heading </h2>
+	<h3> subheading 2 </h3>
+	<h4> we are writing all these sub headings </h4>
+	<h5> Subheading 4 </h5>
+	<h6> when you keep on writing h1 to h6, the size keeps decreasing... </h6>
+	<h7> the size of the font changes </h7>
+</body>
+</html>
