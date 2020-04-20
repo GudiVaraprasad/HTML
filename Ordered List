@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+	<meta> charset="utf-8"
+	<title>Ordered List</title>
+</head>
+<body>
+	<h1> ***ORDERED LIST*** </h1>
+	<div>
+
+		How to write a programme or a code:
+		<ol>
+			<li>Write an algorithm before writing of any code
+				<ol>
+					<li>an algorithm is a step by step process of describing any process</li>
+				</ol>
+			</li>
+			<li>After writing an algorithm make a flowchart
+				<ol>
+					<li>A flow chart is a describing of procedure using tabular flow or graphical respresentation</li>
+				</ol>
+			</li>
+			<li>After making of a flowchart, using both algorithm and flow chart try to make a simple code and take the help of the programming language syntax</li>
+		</ol>
+	</div>
+</body>
+</html>
