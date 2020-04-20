@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Interna Links within the same page</title>
+</head>
+<body>
+  <h1 id="top">Links to Sections of The Same Page</h1>
+  <h2> **** All about HTML **** </h2>
+  <section>
+    <ul>
+      <!-- Link to every section in the page -->
+      <li><a href="#section1">#section1</a></li>
+      <li><a href="#section2">#section2</a></li>
+      <li><a href="#section3">#section3</a></li>
+      <li><a href="#section4">#section4</a></li>
+      <li><a href="#section5">#section5</a></li>
+      <li><a href="#section6">#section6</a></li>
+    </ul>
+
+  </section>
+
+  <section id="section1">
+    <h3>(#section1) Section 1</h3>
+    <p>You clicked on the section 1 link and your are redirected to this section you want. Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. </p>
+  </section>
+
+  <section id="section2">
+    <h3>(#section2) Section 2</h3>
+    <p>You clicked on the section 2 link and your are redirected to this section you want. Browsers do not display the HTML tags, but use them to interpret the content of the page. HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.</p>
+  </section>
+
+  <section id="section3">
+    <h3>(#section3) Section 3</h3>
+    <p>You clicked on the section 3 link and your are redirected to this section you want. First developed by Tim Berners-Lee in 1990, HTML is short for Hypertext Markup Language. HTML is used to create electronic documents (called pages) that are displayed on the World Wide Web. Each page contains a series of connections to other pages called hyperlinks.</p>
+  </section>
+
+  <section id="section4">
+    <h2>(#section4) Section 4</h2>
+    <p>You clicked on the section 4 link and your are redirected to this section you want. HTML uses special bits of programming language called "tags" to let the browser know how a webpage should look. The tags usually come in pairs: an opening tag defines the start of a block of content and a closing tag defines the end of that block of content. There are many different kinds of tags, and each one has a different purpose. See Basic HTML Tags below for tag examples. Some tags only work in certain browsers. For example, the menuitem tag, which is used to make something appear when the person presses the right button of the mouse, only works on the Mozilla Firefox browser. Other browsers simply ignore this tag and display the writing normally. Many web page creators avoid using these "non-standard" tags because they want their pages to look the same with all browsers.</p>
+  </section>
+
+  <section id="section5">
+    <h2>(#section5) Section 5</h2>
+    <p>You clicked on the section 5 link and your are redirected to this section you want. HTML is very easy to learn and understand. For the one who is learning web development, HTML is the first and foremost language that the person will go through. It has simple tags and there is no hectic of case sensitivity in HTML. It simply has some tags that serve a specific purpose and that’s it. One can easily understand other’s code and can make changes in it if required as there is not a lot more to understand in it. Moreover, it does not throw any error or create any problem like other programming languages if the developer forgets to close the tags or make some mistakes in code.</p>
+  </section>
+
+  <div>
+    <h3><a name="section6">(#section6) Section 6</a></h2>
+    <p>
+      Back to top: <a href="#top">Back to Top</a>
+    </p>
+    <p> Wikipedia &copy; Copyright </p>
+    <h2> This page is contributed by Gudi Varaprasad </h2>
+  </div>
+</body>
+</html>
