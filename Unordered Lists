@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+	<meta> charset="utf-8">
+	<title>Unordered Lists</title>
+</head>
+<body>
+	<h1>  ****Unordered Lists**** </h1>
+	<div>
+
+		My shoping list for today includes the following items:
+        <ul>
+		  <li>1.Milk</li>
+		  <li>2.Donuts</li>
+		  <li>3.Cookies
+			<ul>
+		   	  <li>a.Britania</li>
+		   	  <li>b.Good Day</li>
+		   	  <li>c.Oreo</li>
+		   	</ul>
+		   	</li>
+			<li>4.Chocolates</li>
+			<li>5.Sugar</li>
+			<li>6.Peanut Butter Bread and jam</li>
+			<li>only li element is allowed inside ui element and text isn't allowed</li>
+		</ul>
+	</div>
+</body>
+</html>
