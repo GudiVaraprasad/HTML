@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Links</title>
+</head>
+<body>
+  <h1 id="top">External Links</h1>
+  <section>
+    <p>
+      Let's link to my GITHUB page I created for this HTML !!
+      <!-- link to my GITHUB page WITH TARGET-->
+      <a href="https://github.com/GudiVaraprasad" 
+      target="_blank" title="Bookmark this Page!">Course GITHUB Page</a>
+    </p>
+  </section>
+</body>
+</html>
