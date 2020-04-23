@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Displaying Images</title>
+</head>
+<body>
+<h1>My Introduction to the world:</h1>
+<p>
+  <img src="GVP.jpg" width="960" height="960" alt="Gudi Varaprasad"> 
+ </p>
+ <p>
+  &quot;GUDI VARAPRASAD was born into a middle-class family at Warangal, Telangana. His father is a Priest and Mother is a Home-maker. He is pursuing his Computer Science and Engineering at Vellore Institute of Technology, AP which is one of the prestigious Institute of India. He is an easy-going guy who leads a happy life. He is very brave, talented and a studious student. He is a well-disciplined person, effective speaker and a creative writer too. He is very sincere and hardworking in nature. He is an optimist, an extrovert and an atheist. He always spends his time reading books, watching movies and googling things. He is a JEE Qualifier and a Bookworm. He is extraordinary at his logics and does Mathematics well. He enjoys motivating others and spending time with family. He is very good at Adobe Photoshop, Magix Movie Editing, Music making, IOT based Projects and MS Office, Webpage making using HTML and Problem Solving using JAVA, Python. Facing many Hurdles in his life, he is finally aimed to be a Cyber Security Officer as he is very much interested in Computer and Networking security. Recently he did a IOT based Project using Arduino and Raspberry Pi. He is doing a project based on OpenCV - Face Recognition. You can Contact him through Email gudi.varaprasad@gmail.com.&quot;
+</p>
+<p>
+<!--img src="http://lorempixel.com/output/nature-q-c-640-480-1.jpg" width="640" height="480"> -->
+</p>
+<p>Gudi Varaprasad &copy; Copyright 2020</p>
+</body>
+</html>
